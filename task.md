@@ -258,7 +258,7 @@ Use this checklist to track your progress:
 
 ## Deadline
 
-**Submission Deadline: December 5, 2025 at 23:45**
+**Submission Deadline: Mars 6, 2026 at 23:45**
 
 Ensure all OMA links are submitted before the deadline.
 
