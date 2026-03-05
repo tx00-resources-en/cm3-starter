@@ -23,7 +23,7 @@ You need to submit **separate OMA links** for each of the following items:
 ## Project Structure & Branching Strategy
 
 ### Branching Strategy
-- Create **one branch per feature** (minimum 2 branches per team member).  
+- Create **one branch per feature** (minimum 1 branch per team member).  
 - **Do NOT delete any branches** after merging—preserve all history.  
 - Use clear branch naming (e.g., `feature/auth`, etc.).  
 - Keep branches intact for grading and evaluation purposes.  
@@ -249,7 +249,7 @@ Use this checklist to track your progress:
 - [ ] Links to OMA 
 
 **Documentation & Evaluation**
-- [ ] Feature branches created and preserved (minimum 2 per team member, none deleted)
+- [ ] Feature branches created and preserved (minimum 1 per team member, none deleted)
 - [ ] `evaluation/contributions/YourName.md` for each member
 - [ ] `evaluation/self-assessment/YourName.md` for each member
 - [ ] `evaluation/self-grading/YourName.md` for each member (max 80 points each)
