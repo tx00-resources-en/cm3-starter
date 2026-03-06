@@ -53,9 +53,9 @@ project-root/
 
 ---
 
-## Database Setup
+## Setup
 
-You don't need to start from scratch!
+You don't need to start from scratch! You can use [this starter code.](https://github.com/tx00-resources-en/cm3-starter)
 
 ---
 
